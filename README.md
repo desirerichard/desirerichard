@@ -3,6 +3,6 @@
 
 - 📇 Front End Developer
 - 📚 Student [@Simplon](https://hautsdefrance.simplon.co/), in Valenciennes, FR
-- 🛠 I build with: Next, React, JavaScript, Docker, React Native, Node, TypeScript, SQL, Git, Linux, Vim, CSS
+- 🛠 I build with: Next, React, JavaScript, Docker, Ionic, Java, Node, TypeScript, SQL, Git, Linux, Vim, CSS
 - 🌲 I enjoy skateboarding, reading, biking, and music.
 - 📧 Contact me: desirerichard@pm.me
