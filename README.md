@@ -1,4 +1,3 @@
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=yellow" />](https://github.com/desirerichard)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=yellow" />](https://www.linkedin.com/in/desirerichard/)
 
 - 📇 Front End Developer
