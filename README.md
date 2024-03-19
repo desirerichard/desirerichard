@@ -7,7 +7,7 @@
 - 📍 **Valenciennes / Lille / Remote**
 - 🛠 **Toolkit:**
 	- *Design*:  Figma
-	- *Front end*: Next.js / React.js / Astro.js / Javascript / Three.js / Flutter / HTML + CSS
+	- *Front end*: Next.js / React.js / Astro / Javascript / Three.js / Flutter / HTML + CSS
 	- *Back end*: Node.js / Spring / Java / PostgreSQL / SQL
 	- *Others*: Docker / Git / Linux / Vim / Tmux
 - 🌲 **I enjoy biking, linux, skateboarding, and playing guitar.**
